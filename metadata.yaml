@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: Relates the efforts of Rollo's friend and neighbor, Georgie, who is an
   ailing boy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19256#Georgie
 gutenberg_issued: '2006-09-12'
 gutenberg_type: Text
 identifiers:
